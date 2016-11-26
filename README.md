@@ -27,7 +27,7 @@ This blog was created, from the ground up, using the following technical languag
 **CONCEPT**
 
 We we given the task of creating a web application featuring an API with CRUD functionality.  
-This blog was created to entertain and inspire people from all walks of life.  A few of the blogs that we admire and drew inspiration from are 'GOOP <http://www.goop.com>'_ , Honeygrow, Liberty London Girl, and Rachel Khoo.  We wanted to create a site that offers advice, product knowledge, and information about travel, food and drink, and home and beauty products.  
+This blog was created to entertain and inspire people from all walks of life.  A few of the blogs that we admire and drew inspiration from are [GOOP](http://www.goop.com), [Honeygrow](http://honeygrow.com), [Liberty London Girl](http://www.libertylondongirl.com), and [Rachel Khoo](http://www.rachelkhoo.com).  We wanted to create a site that offers advice, product knowledge, and information about travel, food and drink, and home and beauty products.  
 
 **User Story:**
 
@@ -50,7 +50,7 @@ Creation of API keys occured whenever the blog master or the reader creates a pr
 
 We currently have only run the app in the local environment, but it is set up for future use in a live environment.
 
-**:Authors:**
+##Authors
 	-Victoria Fajardo
 	-Anita Wright
 	-Arnold Rozon
