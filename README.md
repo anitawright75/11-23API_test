@@ -30,9 +30,14 @@ Blog Master login in:
 
 Upon login to the admin interface, the blog master will be asked for their id.  If the ID matches, they are able to create, modify, or delete a posting.  Once the post has been created/modified and shows on the page, they are then given the option to save the post, and then view it. If the post is to be deleted, the user will see the phrase POST DELETED once they’ve chosen this option.  If the password doesn’t match, the message INVALID PASSWORD appears, and the user is redirected to the admin start page. 
 
+
 Reader login:
 
 Upon login at the home screen, the reader will then have the ability to create new comments, or modify and delete existing ones.  If the login information is correct, they will see the message “Welcome”, and will be allowed access to the comments section.  If the reader password is incorrect, then they will see the message “You entered the wrong username or password.  Please try again!”
+
+API KEY generation: 
+
+Creation of API keys occured whenever the blog master or the reader creates a profile.  We were able to generate API keys with a random string using Base64.
 
 Future functionality:
 
