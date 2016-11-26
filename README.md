@@ -1,6 +1,8 @@
-VIDA Lifestyle Blog
+h1.**boldVIDA Lifestyle Blog**
 
-An original lifestyle blog created by Victoria Fajardo, Anita Wright, and Arnold Rozon. 
+h2.An original lifestyle blog created by Victoria Fajardo, Anita Wright, and Arnold Rozon. 
+
+---
 This blog was created, from the ground up, using the following technical languages, software libraries, and frameworks:
 
 * HTML
@@ -14,6 +16,7 @@ This blog was created, from the ground up, using the following technical languag
 * EXPRESS
 * GULP
 * Angular.js
+* EJS
 * Rake
 * Active Record ORM
 
